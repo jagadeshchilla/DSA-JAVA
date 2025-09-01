@@ -1,5 +1,5 @@
 # 📘 DSA Self Practice Plan
-
+Basically this plan is done using the `Stivers A - Z Sheet`.I have practiced based on topics and each topics patterns 
 ## Day 1 — Arrays (Basics & Prefix Sums)
 
 | #  | Problem                        | Technique/Concept                | Websites                                                                                                   | Problem Link                                                                                              | Difficulty |
@@ -21,3 +21,14 @@
 | 3  | First & Last Occurrence in Sorted Array    | Binary Search (lower/upper bound)       | ![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=leetcode&logoColor=yellow) | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium |
 | 4  | Find Peak Element                          | Binary Search on unimodal array         | ![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=leetcode&logoColor=yellow) | [Link](https://leetcode.com/problems/find-peak-element/description/) | 🟡 Medium |
 | 5  | Search in Rotated Sorted Array             | Modified Binary Search / Pivot handling | ![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=leetcode&logoColor=yellow) | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | 🟡 Medium |
+
+
+## Day 3 — Arrays (Hashing & Sums)
+
+| #  | Problem                                       | Technique/Concept                        | Websites                                                                                                              | Problem Link                                                                                                                                            | Difficulty |
+|----|-----------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1  | Two Sum                                       | Hashing / Complement lookup              | ![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=leetcode&logoColor=yellow)                              | [Link](https://leetcode.com/problems/two-sum/)                                                                                                          | 🟢 Easy    |
+| 2  | Best Time to Buy and Sell Stock I             | One-pass / Kadane-like max diff          | ![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=leetcode&logoColor=yellow)                              | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                                                   | 🟢 Easy    |
+| 3  | Subarray Sum Equals K                         | Hashing + Prefix sums                     | ![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=leetcode&logoColor=yellow)                              | [Link](https://leetcode.com/problems/subarray-sum-equals-k/)                                                                                             | 🟡 Medium  |
+| 4  | Longest Subarray with Sum K (positive nums)   | Sliding window / Two pointers (positives) | ![GFG](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?logo=geeksforgeeks&logoColor=white) <br> ![TUF](https://img.shields.io/badge/-TakeUForward-blue) | [GfG Practice](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) <br> [Tutorial (TakeUForward)](https://takeuforward.org/data-structure/longest-subarray-with-given-sum-k/) | 🟡 Medium  |
+| 5  | Longest Consecutive Sequence                   | Hashing / Set + sequence expansion       | ![LeetCode](https://img.shields.io/badge/-LeetCode-black?logo=leetcode&logoColor=yellow)                              | [Link](https://leetcode.com/problems/longest-consecutive-sequence/)                                                                                       | 🟡 Medium  |
